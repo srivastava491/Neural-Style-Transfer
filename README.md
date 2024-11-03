@@ -3,9 +3,6 @@
 
 This project implements a Neural Style Transfer model using PyTorch to combine content and style images, enabling users to generate new images that retain the content of one image while adopting the artistic style of another. The model utilizes the VGG network for feature extraction and optimizes the target image through gradient descent. A Streamlit-based interface provides an easy way to upload images, adjust settings, and view results in real-time.
 
-## Demo
-
-![Demo GIF](demo.gif)
 
 ## Features
 
